@@ -108,10 +108,4 @@ SELECT * FROM "AwsDataCatalog"."multi-tenant-db"."TABLENAME" where tenant='TENAN
 
 You will want to replace the values that are ALL CAPS from the saved query. You need to replace the TABLENAME with the name of the table created by crawler. You need to replace the TENANTID with the name of the tenant id you used when you created your user.
 
-## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
